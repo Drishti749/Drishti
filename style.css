@@ -11,10 +11,10 @@ h1 {
     font-size: 30px;
     font-family: fantasy;
     font-weight: 50px;
-     font-height: 1px;
+    font-height: 1px;
 }
 
-#bio {   
+#bio {
     padding: 10px;
     font-size: 18px;
     text-align: center;
